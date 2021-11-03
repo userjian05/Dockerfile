@@ -1,1 +1,1 @@
-FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-proxy
+FROM registry.cn-hangzhou.aliyuncs.com/google_containers/pause:3.2
