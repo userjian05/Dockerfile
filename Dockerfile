@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-apiserver
+FROM k8s.gcr.io/storage-provisioner:v1.8.1
