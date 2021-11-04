@@ -1,1 +1,2 @@
-FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-controller-manager:v1.19.3
+#FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-controller-manager:v1.19.3
+FROM gotok8s/kube-controller-manager:v1.16.5

@@ -1,1 +1,2 @@
-FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-apiserver:v1.19.3
+#FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-apiserver:v1.19.3
+FROM gotok8s/kube-apiserver:v1.16.5
